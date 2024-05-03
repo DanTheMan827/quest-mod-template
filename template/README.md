@@ -2,6 +2,9 @@
 
 #{description}
 
+Use `qpm s build` to build
+Same goes for `qpm s copy` and `qpm s qmod`
+
 ## Credits
 
 * [zoller27osu](https://github.com/zoller27osu), [Sc2ad](https://github.com/Sc2ad) and [jakibaki](https://github.com/jakibaki) - [beatsaber-hook](https://github.com/sc2ad/beatsaber-hook)
